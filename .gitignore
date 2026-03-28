@@ -1,3 +1,7 @@
+	build/
+CMakeFiles/
+CMakeCache.txt
+
 .DS_STORE
 
 /buck-cache/
@@ -76,3 +80,7 @@ local.properties
 
 # Android Studio
 .idea
+
+build/
+CMakeFiles/
+CMakeCache.txt
